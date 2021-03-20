@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-03-20T14:51:12 IST" name="Suite" finished-at="2021-03-20T14:51:12 IST" duration-ms="57">
+    <groups>
+    </groups>
+    <test started-at="2021-03-20T14:51:12 IST" name="Test" finished-at="2021-03-20T14:51:12 IST" duration-ms="57">
+      <class name="test.Launchyoutube">
+        <test-method signature="launchyoutube()[pri:0, instance:test.Launchyoutube@1e67a849]" started-at="2021-03-20T14:51:12 IST" name="launchyoutube" finished-at="2021-03-20T14:51:12 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchyoutube -->
+      </class> <!-- test.Launchyoutube -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
